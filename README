@@ -1,0 +1,7 @@
+A list of hosts to block to avoid ads and tracking without the need of any
+tools.
+
+
+How:
+----
+Simply put that file in /etc/hosts.
